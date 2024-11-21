@@ -2,5 +2,8 @@ numpy
 pandas
 matplotlib
 seaborn
-
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
 # -e .
